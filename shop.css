@@ -485,7 +485,7 @@
       font-size: clamp(2.4rem, 5vw, 4rem);
       font-weight: 900;
       line-height: 1.1;
-      word-spacing: 4px;
+      word-spacing: 6px;
       letter-spacing: .05em;
       color: #fff;
       margin-bottom: 0.6rem;
