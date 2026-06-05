@@ -485,6 +485,7 @@
       font-size: clamp(2.4rem, 5vw, 4rem);
       font-weight: 900;
       line-height: 1.1;
+      word-spacing: 2px;
       color: #fff;
       margin-bottom: 0.6rem;
       animation: fadeUp 0.7s 0.2s both;
