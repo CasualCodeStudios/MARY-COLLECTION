@@ -486,6 +486,7 @@
       font-weight: 900;
       line-height: 1.1;
       word-spacing: 2px;
+      letter-spacing: 2;
       color: #fff;
       margin-bottom: 0.6rem;
       animation: fadeUp 0.7s 0.2s both;
